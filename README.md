@@ -1,7 +1,7 @@
 # smart delivery assist
 The project for assistance of people during outbreak
 
-Problem statement:
+PROBLEM STATEMENT:
 Delivery assist - now a days many people are struggling due to covid 19 
 and they are enforced to be as quarantine to stay safe but in this case 
 they're unable to get the necessary groceries and food with ease for their 
@@ -14,8 +14,8 @@ design and working process is as follows;
 
 ABSTRACT:
 
-      Drone Delivery system will track live location of consumer and 
-hence provide assured delivery of package to the 
+      Drone Delivery system will track live location of consumer 
+and hence provide assured delivery of package to the 
 correct place and correct person. GPS Drone delivery system will 
 locate the consumer through GPS and detect the live location and 
 deliver the package accurately and within a stipulated time as 
